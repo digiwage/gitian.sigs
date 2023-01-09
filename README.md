@@ -1,2 +1,0 @@
-# gitian.sigs
-gitian signatures
